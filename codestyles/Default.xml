@@ -1,0 +1,12 @@
+<code_scheme name="Default" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+  </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
+</code_scheme>
