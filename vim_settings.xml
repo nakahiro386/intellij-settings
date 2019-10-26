@@ -68,7 +68,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
