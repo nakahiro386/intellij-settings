@@ -80,6 +80,9 @@
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed H</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
     <editor />
     <notifications>
